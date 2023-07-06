@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+}
+
+.add-user{
+  display:flex ;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  padding: 5px;
+}
+li{
+  list-style-type: none;
+}
